@@ -9,7 +9,7 @@ tracker:
             repos:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
-runtime: claude
+runtime: dummy
 agents:
     - name: triage
       runtime: dummy
